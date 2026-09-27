@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme matching the original web UI -->
+    <color name="bg_primary">#0F1117</color>
+    <color name="bg_surface">#1A1D27</color>
+    <color name="bg_surface2">#22253A</color>
+    <color name="accent">#6C63FF</color>
+    <color name="accent_light">#8B84FF</color>
+    <color name="text_primary">#F0F0F5</color>
+    <color name="text_secondary">#8B8FA8</color>
+    <color name="text_hint">#555870</color>
+    <color name="user_bubble">#4A4580</color>
+    <color name="user_msg_text">#FFFFFF</color>
+    <color name="assistant_bubble">#1E2130</color>
+    <color name="divider">#2A2D40</color>
+    <color name="send_btn_bg">#6C63FF</color>
+</resources>

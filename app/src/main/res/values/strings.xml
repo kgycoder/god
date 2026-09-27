@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LM Arena</string>
+    <string name="login_subtitle">LM Arena에 연결하려면 Google 계정으로 로그인하세요</string>
+    <string name="login_google">Google로 로그인</string>
+    <string name="logging_in">로그인하는 중...</string>
+    <string name="login_required_title">로그인 필요</string>
+    <string name="login_required_msg">세션이 만료되었습니다. 다시 로그인해주세요.</string>
+    <string name="go_to_login">로그인 화면으로</string>
+    <string name="logout">로그아웃</string>
+    <string name="logout_confirm">로그아웃하시겠습니까?</string>
+    <string name="empty_title">무엇을 도와드릴까요?</string>
+    <string name="empty_subtitle">메시지를 입력하면 LM Arena로 바로 전달됩니다</string>
+    <string name="input_hint">메시지를 입력하세요...</string>
+    <string name="new_chat">새 채팅</string>
+    <string name="send">전송</string>
+    <string name="error_prefix">오류: </string>
+</resources>
